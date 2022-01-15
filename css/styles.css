@@ -1,0 +1,132 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Mohave', sans-serif;
+  line-height: 2;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size:8rem;
+  color: #4AB19A;
+}
+h2{
+  margin: 0;
+  font-size: 2.5rem;
+  color: #4AB19A;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+  color: #4AB19A;
+}
+hr{
+  border-style: dotted none none none;
+  border-width:5px;
+  border-color:#AEE1E1;
+  width : 50px;
+  margin: 100px auto 100px auto;
+
+
+}
+
+h3{
+  color: #138b74;
+  font-size: .8em;
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  margin-left: 20px;
+  color: #11a98c;
+}
+
+.btn{
+  padding: .75em 4em .75em 4em;
+  border-radius: 5px;
+  background-color: #45b29a;
+  color: #204d43;
+  text-decoration: none;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  text-transform: uppercase;
+
+}
+.btn:hover {
+  background-color: #3da38d;
+}
+.contact-me{
+  width: 50%;
+  margin:0  auto 0  auto;
+  padding-bottom: 10px;
+  text-align: right;
+
+
+}
+.skills{
+  width: 65%;
+  margin:0  auto 0  auto;
+}
+.skill-row{
+  width: 50%;
+  margin:0  auto 0  auto;
+  text-align: left;
+}
+.radius{
+  float: right;
+  height:200px;
+  border-radius:10%;
+  margin-left: 10px;
+}
+.center{
+  position: relative;
+  left: 25%;
+}
+.small-img-micro{
+  width: 20%;
+  float: left;
+  margin-left: 10px;
+}
+.center-side{
+  width: 50%;
+}
+.small-img{
+  height: 95px;
+}
+.top-container{
+
+  background-color:#E0EBE8;
+  padding: 5%;
+  padding-bottom: 0;
+  position: relative;
+  margin-bottom: 30px;
+  /* display: inline-blockn; */
+
+}
+.mountain{
+  width: 50%;
+  position: relative;
+top: 10px;
+}
+.middle-container{
+  /* background-color:#30E3CA; */
+margin-bottom: 80px;
+}
+.bottom-container{
+  margin: 40px auto 0 auto;
+  padding: 10px 0 10px 0;
+  background-color:#E0EBE8;
+}
+.cloud-top{
+  /* margin-top: 40px; */
+  position:relative;
+  width: 120px;
+  left: 15%;
+}
+.cloud-bottom{
+  position: absolute;
+      width: 170px;
+}
